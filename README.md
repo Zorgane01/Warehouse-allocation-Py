@@ -4,6 +4,10 @@
 
 The Warehouse Location-Allocation Optimization project addresses the crucial logistics and supply chain challenge of determining optimal warehouse locations and efficiently allocating customer demand while minimizing transportation costs. This project employs linear programming techniques and the PuLP library in Python to find an optimized solution.
 
+here you'll find the code written using Spyder, it contains an explanation for each step
+
+i included a document explaining in depth the theory behind this problem and the steps we followed to solve it
+
 ### Key Components
 
 - **Input Data**: The project takes input data from an Excel file, including distances between cities and manually defined demand data.
