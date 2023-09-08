@@ -12,7 +12,7 @@ i included a document explaining in depth the theory behind this problem and the
 
 - **Input Data**: The project takes input data from an Excel file, including distances between cities and manually defined demand data.
 
-   ![Distance Data](images/distance_data.png)
+   ![Distance Data](images/dist.jpg)
 
    **Table 1: Demand by City**
    
