@@ -10,9 +10,7 @@ i included a document explaining in depth the theory behind this problem and the
 
 ### Key Components
 
-- **Input Data**: The project takes input data from an Excel file, including distances between cities and manually defined demand data.
-
-   ![Distance Data](images/dist.jpg)
+- **Input Data**: The project takes input data from an Excel file, including distances between cities (view the excel file) and manually defined demand data.
 
    **Table 1: Demand by City**
    
