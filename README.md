@@ -8,9 +8,16 @@ here you'll find the code written using Spyder, it contains an explanation for e
 
 i included a document explaining in depth the theory behind this problem and the steps we followed to solve it
 
+before diving in, i want to thank Mr Haytham Omar for his courses and instructions which were the main source of inspiration and the foundation of this project
+
+if you want to learn more about supply chain design and planning, i highly recommand you to check his courses on Udemy : https://www.udemy.com/course/ra-logistics-and-supply-chain-optimization/#instructor-1
+
+
 ### Key Components
 
 - **Input Data**: The project takes input data from an Excel file, including distances between cities (view the excel file) and manually defined demand data.
+
+- please note that the data was retrieved from this course : https://www.udemy.com/share/103F0d3@rytky8Ci8X2E4d9ZH4SMbmihCrPAXEkQC_YHcsjpr0gGDDuuuXt0Vg1f5l38kXyrbQ==/
 
    **Table 1: Demand by City**
    
